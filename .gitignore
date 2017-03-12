@@ -44,5 +44,4 @@ local.properties
 # --------------- #
 .studio/
 flows/
-target/
 **/*.mflow
